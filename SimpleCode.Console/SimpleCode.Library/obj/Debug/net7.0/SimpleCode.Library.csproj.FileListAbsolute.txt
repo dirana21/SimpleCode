@@ -1,0 +1,12 @@
+D:\RiderProject\SimpleCode\SimpleCode.Console\SimpleCode.Library\bin\Debug\net7.0\SimpleCode.Library.deps.json
+D:\RiderProject\SimpleCode\SimpleCode.Console\SimpleCode.Library\bin\Debug\net7.0\SimpleCode.Library.dll
+D:\RiderProject\SimpleCode\SimpleCode.Console\SimpleCode.Library\bin\Debug\net7.0\SimpleCode.Library.pdb
+D:\RiderProject\SimpleCode\SimpleCode.Console\SimpleCode.Library\obj\Debug\net7.0\SimpleCode.Library.csproj.AssemblyReference.cache
+D:\RiderProject\SimpleCode\SimpleCode.Console\SimpleCode.Library\obj\Debug\net7.0\SimpleCode.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\SimpleCode\SimpleCode.Console\SimpleCode.Library\obj\Debug\net7.0\SimpleCode.Library.AssemblyInfoInputs.cache
+D:\RiderProject\SimpleCode\SimpleCode.Console\SimpleCode.Library\obj\Debug\net7.0\SimpleCode.Library.AssemblyInfo.cs
+D:\RiderProject\SimpleCode\SimpleCode.Console\SimpleCode.Library\obj\Debug\net7.0\SimpleCode.Library.csproj.CoreCompileInputs.cache
+D:\RiderProject\SimpleCode\SimpleCode.Console\SimpleCode.Library\obj\Debug\net7.0\SimpleCode.Library.dll
+D:\RiderProject\SimpleCode\SimpleCode.Console\SimpleCode.Library\obj\Debug\net7.0\refint\SimpleCode.Library.dll
+D:\RiderProject\SimpleCode\SimpleCode.Console\SimpleCode.Library\obj\Debug\net7.0\SimpleCode.Library.pdb
+D:\RiderProject\SimpleCode\SimpleCode.Console\SimpleCode.Library\obj\Debug\net7.0\ref\SimpleCode.Library.dll
