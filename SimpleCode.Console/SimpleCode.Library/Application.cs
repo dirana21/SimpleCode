@@ -9,8 +9,9 @@ public class Application
 
         Console.WriteLine("Введите операцию: 'average' для среднего арифметического или 'product' для произведения чисел");
         string operation = Console.ReadLine();
+        
 
-        Mathematics? matematics = CreateMatematics(operation, quantity);
+        Mathematics? matematics = CreateMatematics(operation.ToLower(), quantity);
         if (matematics == null)
         {
             Console.WriteLine("Неверная операция.");
